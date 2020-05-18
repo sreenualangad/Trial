@@ -6,6 +6,10 @@ public static void main(String[] args) {
 	
 	System.out.println("tester1 job done");
 	
-	System.out.println("tester 1 seconed job");
+
+
+	System.out.println("tester2 job done");
+
+System.out.println("my seconed job doen -tester1");
 }
 }
